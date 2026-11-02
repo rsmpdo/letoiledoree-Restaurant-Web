@@ -19,8 +19,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Project Overview
 
-- Agentic platform used: Antigravity
-
 **LetoiledOrée — Restaurant Web** is a modern, responsive restaurant web application built with **React** and **Vite**. It demonstrates a full‑stack workflow with Vercel deployment, showcasing a sleek UI, dynamic menu rendering and client‑side routing.
 
 ## Features
